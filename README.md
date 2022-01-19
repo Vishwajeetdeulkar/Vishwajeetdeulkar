@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Deulkar</h1>
-<h3 align="center">I am pursuing a master's degree from IIIT, Bangalore</h3>
+<h3 align="center">I am pursuing a master's degree from IIIT,Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeetdeulkar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeetdeulkar" /> </p>
 
